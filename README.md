@@ -9,6 +9,8 @@ Oswald is a reworking of the classic gothic typeface style historically represen
 # Todo:
 - Improve README.md
 - Fix glyphs, anchors and components
+- Fix MM compatibility
+- Add instances
 - Intelligently import .fea file so we get kern classes
 - Vertical Metrics
 - Run fonts through Font bakery and Ship fonts
