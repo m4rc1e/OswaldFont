@@ -1,5 +1,6 @@
 {
 .appVersion = "895";
+copyright = "Copyright (c) 2010-13 by Vernon Adams";
 customParameters = (
 {
 name = license;
@@ -8,9 +9,15 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = newt;
 }
 );
-date = "2016-08-02 09:55:55 +0000";
+date = "2016-08-02 10:19:32 +0000";
+designer = "Vernon Adams";
+designerURL = code.newtypography.co.uk;
 familyName = Oswald;
 fontMaster = (
 {
@@ -66453,6 +66460,8 @@ cdotaccent = -1;
 };
 };
 };
+manufacturer = "Vernon Adams";
+manufacturerURL = code.newtypography.co.uk;
 unitsPerEm = 2048;
 userData = {
 com.superpolator.editor.generateInfo = "Generated with LTR Superpolator version 120823_1018_beta_";
@@ -67184,6 +67193,6 @@ com.typesupply.MetricsMachine4.groupColors = {
 );
 };
 };
-versionMajor = 1;
+versionMajor = 4;
 versionMinor = 0;
 }
