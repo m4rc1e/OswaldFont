@@ -1,6 +1,6 @@
 {
 .appVersion = "895";
-copyright = "http://www.newtypography.co.uk";
+copyright = "Copyright (c) 2011, The Oswald Project Authors (vern@newtypography.co.uk)";
 customParameters = (
 {
 name = license;
@@ -13,6 +13,11 @@ value = "http://scripts.sil.org/OFL";
 {
 name = vendorID;
 value = newt;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2016-08-02 10:19:32 +0000";
