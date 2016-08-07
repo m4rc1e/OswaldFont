@@ -16,8 +16,7 @@ value = newt;
 },
 {
 name = fsType;
-value = (
-);
+value = 0;
 },
 {
 name = "Use Typo Metrics";
@@ -141,7 +140,7 @@ verticalStems = (
 120,
 323
 );
-weight = SemiLight;
+weight = Light;
 weightValue = 200;
 xHeight = 578;
 },
@@ -50039,12 +50038,357 @@ disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 instances = (
 {
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -190;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -190;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1111;
+},
+{
+name = winDescent;
+value = 378;
+},
+{
+name = underlineThickness;
+value = 10;
+},
+{
+name = underlinePosition;
+value = -33;
+}
+);
+interpolationWeight = 200;
 instanceInterpolations = {
-"6D1B020D-7C4E-4885-9208-B35BA480FE8F" = 1.5;
-"43161617-4660-4075-B14A-1D8E25AEE542" = -0.5;
+"6D1B020D-7C4E-4885-9208-B35BA480FE8F" = 1;
+};
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -190;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -190;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1111;
+},
+{
+name = winDescent;
+value = 378;
+},
+{
+name = underlineThickness;
+value = 10;
+},
+{
+name = underlinePosition;
+value = -33;
+}
+);
+interpolationWeight = 275;
+instanceInterpolations = {
+"6D1B020D-7C4E-4885-9208-B35BA480FE8F" = 0.625;
+"43161617-4660-4075-B14A-1D8E25AEE542" = 0.375;
 };
 name = Light;
 weightClass = Light;
+},
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -190;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -190;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1111;
+},
+{
+name = winDescent;
+value = 378;
+},
+{
+name = underlineThickness;
+value = 10;
+},
+{
+name = underlinePosition;
+value = -33;
+}
+);
+interpolationWeight = 400;
+instanceInterpolations = {
+"43161617-4660-4075-B14A-1D8E25AEE542" = 1;
+};
+name = Regular;
+},
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -190;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -190;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1111;
+},
+{
+name = winDescent;
+value = 378;
+},
+{
+name = underlineThickness;
+value = 10;
+},
+{
+name = underlinePosition;
+value = -33;
+}
+);
+interpolationWeight = 560;
+instanceInterpolations = {
+"43161617-4660-4075-B14A-1D8E25AEE542" = 0.6;
+"BF03A18F-065F-4249-8E16-486B9CB494A0" = 0.4;
+};
+name = Medium;
+weightClass = Medium;
+},
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -190;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -190;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1111;
+},
+{
+name = winDescent;
+value = 378;
+},
+{
+name = underlineThickness;
+value = 10;
+},
+{
+name = underlinePosition;
+value = -33;
+}
+);
+interpolationWeight = 644;
+instanceInterpolations = {
+"43161617-4660-4075-B14A-1D8E25AEE542" = 0.39;
+"BF03A18F-065F-4249-8E16-486B9CB494A0" = 0.61;
+};
+name = DemiBold;
+weightClass = DemiBold;
+},
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -190;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -190;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1111;
+},
+{
+name = winDescent;
+value = 378;
+},
+{
+name = underlineThickness;
+value = 10;
+},
+{
+name = underlinePosition;
+value = -33;
+}
+);
+interpolationWeight = 710;
+instanceInterpolations = {
+"43161617-4660-4075-B14A-1D8E25AEE542" = 0.225;
+"BF03A18F-065F-4249-8E16-486B9CB494A0" = 0.775;
+};
+name = Bold;
+weightClass = Bold;
+},
+{
+customParameters = (
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -190;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -190;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1111;
+},
+{
+name = winDescent;
+value = 378;
+},
+{
+name = underlineThickness;
+value = 10;
+},
+{
+name = underlinePosition;
+value = -33;
+}
+);
+interpolationWeight = 800;
+instanceInterpolations = {
+"BF03A18F-065F-4249-8E16-486B9CB494A0" = 1;
+};
+name = Heavy;
+weightClass = Heavy;
 }
 );
 kerning = {
