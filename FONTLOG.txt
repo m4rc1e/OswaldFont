@@ -72,6 +72,11 @@ Oswald v3.0(1st July 2013)
 - Italic fonts added for all the above font weights.
 - Overall improvements to design, metrics and kerning.
 
+Oswald v4.0(24th August 2016)
+- Expanded the character-set of the upright styles to support Google Plus glyph-set (https://github.com/google/fonts/tree/master/tools/encodings/GF%202016%20Glyph%20Sets).
+- Overhauled all anchors and related components.
+
+
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and 
