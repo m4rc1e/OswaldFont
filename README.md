@@ -7,12 +7,12 @@ Oswald is a reworking of the classic gothic typeface style historically represen
 - Fixed tasks listed in [ProjectChecklist.md](https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md) and internal planning spreadsheet.
 - Corrected OpenType features
 - Changed upm from 2048 to 1000
-
-## Todo:
-- Improve README.md
 - Fix glyphs, anchors and components
 - Fix MM compatibility
 - Add instances
-- Intelligently import .fea file so we get kern classes
 - Vertical Metrics
+
+## Todo:
+- Improve README.md
+- Intelligently import .fea file so we get kern classes
 - Run fonts through Font bakery and Ship fonts
