@@ -10,7 +10,7 @@ fonts {
   filename: "OswaldHeavy-Regular.ttf"
   post_script_name: "OswaldHeavy-Regular"
   full_name: "Oswald Heavy Regular"
-  copyright: "Copyright 2016 The Oswald Project Authors"
+  copyright: "Copyright 2016 The Oswald Project Authors (contact@sansoxygen.com)"
 }
 subsets: "cyrillic"
 subsets: "latin"
