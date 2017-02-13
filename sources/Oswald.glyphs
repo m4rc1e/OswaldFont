@@ -1,5 +1,8 @@
 {
-.appVersion = "926";
+.appVersion = "973";
+DisplayStrings = (
+"ll/f_f_l oer"
+);
 classes = (
 {
 automatic = 1;
@@ -34626,21 +34629,71 @@ rightMetricsKey = ij;
 glyphname = f_f_l;
 layers = (
 {
-components = (
+anchors = (
 {
-name = f;
+name = bottom;
+position = "{128, 0}";
 },
 {
-name = f;
-transform = "{1, 0, 0, 1, 223, 0}";
-},
-{
-name = i;
-transform = "{1, 0, 0, 1, 479, 0}";
+name = top;
+position = "{170, 780}";
 }
 );
 layerId = "FCD7E481-103E-4A6C-AD70-01DA443B2AD0";
-width = 668;
+paths = (
+{
+closed = 1;
+nodes = (
+"327 796 OFFCURVE",
+"318 721 OFFCURVE",
+"318 656 CURVE SMOOTH",
+"318 578 LINE",
+"148 578 LINE",
+"148 657 LINE SMOOTH",
+"148 720 OFFCURVE",
+"155 746 OFFCURVE",
+"200 746 CURVE SMOOTH",
+"212 746 OFFCURVE",
+"229 742 OFFCURVE",
+"242 740 CURVE",
+"242 780 LINE",
+"226 785 OFFCURVE",
+"206 787 OFFCURVE",
+"189 787 CURVE SMOOTH",
+"102 787 OFFCURVE",
+"95 729 OFFCURVE",
+"95 656 CURVE SMOOTH",
+"95 578 LINE",
+"17 578 LINE",
+"17 541 LINE",
+"95 541 LINE",
+"95 0 LINE",
+"148 0 LINE",
+"148 541 LINE",
+"318 541 LINE",
+"318 0 LINE",
+"371 0 LINE",
+"371 541 LINE",
+"468 541 LINE",
+"468 578 LINE",
+"371 578 LINE",
+"371 653 LINE SMOOTH",
+"371 710 OFFCURVE",
+"374 755 OFFCURVE",
+"473 755 CURVE SMOOTH",
+"494 755 OFFCURVE",
+"518 753 OFFCURVE",
+"548 750 CURVE",
+"548 0 LINE",
+"601 0 LINE",
+"601 780 LINE",
+"547 791 OFFCURVE",
+"504 796 OFFCURVE",
+"469 796 CURVE SMOOTH"
+);
+}
+);
+width = 667;
 },
 {
 associatedMasterId = "FCD7E481-103E-4A6C-AD70-01DA443B2AD0";
@@ -34649,40 +34702,142 @@ name = b;
 width = 776;
 },
 {
-components = (
+anchors = (
 {
-name = f;
+name = bottom;
+position = "{144, 0}";
 },
 {
-name = f;
-transform = "{1, 0, 0, 1, 261, 0}";
-},
-{
-name = i;
-transform = "{1, 0, 0, 1, 548, 0}";
+name = top;
+position = "{196, 776}";
 }
 );
 layerId = "8AC5A1D3-32A8-4416-86FC-94176A419B8F";
-width = 777;
+paths = (
+{
+closed = 1;
+nodes = (
+"353 801 OFFCURVE",
+"349 693 OFFCURVE",
+"349 608 CURVE SMOOTH",
+"349 578 LINE",
+"195 578 LINE",
+"195 626 LINE SMOOTH",
+"195 671 OFFCURVE",
+"201 701 OFFCURVE",
+"243 701 CURVE SMOOTH",
+"255 701 OFFCURVE",
+"271 697 OFFCURVE",
+"283 696 CURVE",
+"283 776 LINE",
+"255 779 OFFCURVE",
+"240 781 OFFCURVE",
+"213 781 CURVE SMOOTH",
+"104 781 OFFCURVE",
+"88 715 OFFCURVE",
+"88 608 CURVE SMOOTH",
+"88 578 LINE",
+"19 578 LINE",
+"19 499 LINE",
+"88 499 LINE",
+"88 0 LINE",
+"195 0 LINE",
+"195 499 LINE",
+"349 499 LINE",
+"349 0 LINE",
+"456 0 LINE",
+"456 499 LINE",
+"544 499 LINE",
+"544 578 LINE",
+"456 578 LINE",
+"456 610 LINE SMOOTH",
+"456 675 OFFCURVE",
+"457 721 OFFCURVE",
+"550 721 CURVE SMOOTH",
+"567 721 OFFCURVE",
+"587 720 OFFCURVE",
+"611 717 CURVE",
+"611 0 LINE",
+"718 0 LINE",
+"718 776 LINE",
+"642 793 OFFCURVE",
+"582 801 OFFCURVE",
+"534 801 CURVE SMOOTH"
+);
+}
+);
+width = 776;
 },
 {
-components = (
+anchors = (
 {
-name = f;
+name = bottom;
+position = "{165, 0}";
 },
 {
-name = f;
-transform = "{1, 0, 0, 1, 299, 0}";
-},
-{
-name = i;
-transform = "{1, 0, 0, 1, 629, 0}";
+name = top;
+position = "{196, 788}";
 }
 );
 layerId = "3FB85DAF-C7EF-4F81-BE96-1E190958879E";
-width = 905;
+paths = (
+{
+closed = 1;
+nodes = (
+"383 809 OFFCURVE",
+"366 712 OFFCURVE",
+"366 625 CURVE SMOOTH",
+"366 578 LINE",
+"246 578 LINE",
+"246 624 LINE SMOOTH",
+"246 652 OFFCURVE",
+"263 660 OFFCURVE",
+"282 660 CURVE SMOOTH",
+"294 660 OFFCURVE",
+"307 657 OFFCURVE",
+"315 655 CURVE",
+"315 788 LINE",
+"285 792 OFFCURVE",
+"259 793 OFFCURVE",
+"235 793 CURVE SMOOTH",
+"86 793 OFFCURVE",
+"67 725 OFFCURVE",
+"67 625 CURVE SMOOTH",
+"67 578 LINE",
+"16 578 LINE",
+"16 459 LINE",
+"67 459 LINE",
+"67 0 LINE",
+"246 0 LINE",
+"246 459 LINE",
+"366 459 LINE",
+"366 0 LINE",
+"545 0 LINE",
+"545 459 LINE",
+"599 459 LINE",
+"599 578 LINE",
+"545 578 LINE",
+"545 623 LINE SMOOTH",
+"545 660 OFFCURVE",
+"551 691 OFFCURVE",
+"622 691 CURVE SMOOTH",
+"631 691 OFFCURVE",
+"640 691 OFFCURVE",
+"650 690 CURVE",
+"650 0 LINE",
+"829 0 LINE",
+"829 788 LINE",
+"740 803 OFFCURVE",
+"668 809 OFFCURVE",
+"610 809 CURVE SMOOTH"
+);
 }
 );
+width = 882;
+}
+);
+leftMetricsKey = f;
+rightMetricsKey = l;
 userData = {
 com.fontlab.hintData = {
 };
@@ -76170,5 +76325,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 };
 };
 versionMajor = 4;
-versionMinor = 0;
+versionMinor = 1;
 }
