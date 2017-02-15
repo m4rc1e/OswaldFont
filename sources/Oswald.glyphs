@@ -1,8 +1,5 @@
 {
 .appVersion = "973";
-DisplayStrings = (
-"ll/f_f_l oer"
-);
 classes = (
 {
 automatic = 1;
@@ -55423,19 +55420,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"234 44 LINE",
-"234 208 LINE",
-"69 208 LINE",
-"69 44 LINE"
+"234 411 LINE",
+"234 574 LINE",
+"69 574 LINE",
+"69 411 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"234 411 LINE",
-"234 574 LINE",
-"69 574 LINE",
-"69 411 LINE"
+"234 44 LINE",
+"234 208 LINE",
+"69 208 LINE",
+"69 44 LINE"
 );
 }
 );
@@ -56661,19 +56658,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"292 562 LINE",
-"331 810 LINE",
-"234 810 LINE",
-"234 562 LINE"
+"143 562 LINE",
+"182 810 LINE",
+"85 810 LINE",
+"85 562 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"143 562 LINE",
-"182 810 LINE",
-"85 810 LINE",
-"85 562 LINE"
+"292 562 LINE",
+"331 810 LINE",
+"234 810 LINE",
+"234 562 LINE"
 );
 }
 );
@@ -56685,19 +56682,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"286 494 LINE",
-"358 810 LINE",
-"207 810 LINE",
-"207 494 LINE"
+"88 494 LINE",
+"160 810 LINE",
+"9 810 LINE",
+"9 494 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"88 494 LINE",
-"160 810 LINE",
-"9 810 LINE",
-"9 494 LINE"
+"286 494 LINE",
+"358 810 LINE",
+"207 810 LINE",
+"207 494 LINE"
 );
 }
 );
@@ -76325,5 +76322,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 };
 };
 versionMajor = 4;
-versionMinor = 1;
+versionMinor = 2;
 }
