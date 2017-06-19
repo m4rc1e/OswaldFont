@@ -35,7 +35,7 @@ name = "Disable Last Change";
 value = 1;
 }
 );
-date = "2016-09-28 05:36:08 +0000";
+date = "2017-06-19 09:14:44 +0000";
 designer = "Vernon Adams";
 designerURL = "http://www.sansoxygen.com";
 disablesNiceNames = 1;
@@ -76424,5 +76424,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 };
 };
 versionMajor = 4;
-versionMinor = 2;
+versionMinor = 3;
 }
