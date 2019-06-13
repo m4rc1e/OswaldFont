@@ -85,6 +85,11 @@ Oswald v.4.004 (22nd September 2017) Kalapi Gajjar-Bordawekar k@kalapigajjar.com
 — Replaces Latin-esque Cyrillic glyphs with components.
 - Fixes rounding errors in kerning.
 - Fixes outline errors.
+- Italics not released on Google Fonts. They were not refined enough.
+
+Oswald v.4.100 (1st June 2019( Marc Foley
+- Generated variable fonts which are now served on Google Fonts
+
 
 If you make modifications be sure to add your name (N), 
 email (E), web-address (if you have one) (W) and 
